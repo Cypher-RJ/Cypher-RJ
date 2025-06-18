@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cypher-rj&show_icons=true&locale=en&layout=compact" alt="cypjer-rj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypher-rj&show_icons=true&locale=en" alt="cypher-rj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cypher-rj&" alt="cypher-rj" /></p>
