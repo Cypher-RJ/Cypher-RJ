@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cypher-rj&label=Profile%20views&color=0e75b6&style=flat" alt="cypher-rj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cypher-rj" alt="cypher-rj" /></a> </p>
-
 - I’m currently working on **Minishell**
 
 - I’m currently learning **C**
