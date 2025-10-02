@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cypher-rj&label=Profile%20views&color=0e75b6&style=flat" alt="cypher-rj" /> </p>
 
-- I’m currently working on **Minishell**
+- I’m currently working on **CPP00**
 
-- I’m currently learning **C** and **JavaScript**
+- I’m currently learning **C** and **C++**
 
 - How to reach me **rubenjesus2005comercial@gmail.com**
 
