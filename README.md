@@ -1,72 +1,97 @@
-<h1 align="center">Hi 👋, I'm Cypher-RJ</h1>
-<h3 align="center">A passionate developer focused on building innovative solutions</h3>
+<!-- Profile README for Ruben Jesus -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cypher-rj&label=Profile%20views&color=0e75b6&style=flat" alt="cypher-rj" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on various development projects
-- 🌱 Continuously learning and expanding my technical skillset
-- 💼 Open to collaborating on interesting projects and opportunities
-- 📫 Reach me through my GitHub profile
+<div align="center">
+  <h1>Hi, I'm Ruben Jesus 👋</h1>
+  <p>
+    <strong>Student at 42 School | Software & Game Development Enthusiast | Creative Learner</strong>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Location-Montijo,%20Lisboa-blue?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Currently-42%20School-brightgreen?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-orange?style=flat-square"/>
+  </p>
+</div>
 
 ---
 
-## 🛠️ Languages and Tools
+### 🧑‍💻 About Me
+
+- 🎓 Student at [42 School](https://42lisboa.com/)
+- 🏢 Also working at Worten Resolve
+- 🎮 Passionate about game dev, web, and software in general
+- 🧠 I love to learn and let my creativity flow
+- 🌱 Currently focused on software engineering (with a special interest in C++)
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cypher-rj&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="cypher-rj" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cypher-RJ&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="Ruben's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher-RJ&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cypher-rj&theme=tokyonight&hide_border=true" alt="cypher-rj" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cypher-rj&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="cypher-rj" />
+### 🏆 Featured Projects
+
+#### <a href="https://github.com/Cypher-RJ/minishell"><img src="https://img.shields.io/badge/-minishell-blue?style=flat-square"/></a>
+A custom Unix shell written in C. Features include:
+- Command parsing, built-ins, pipes, and redirections.
+- Deep dive into process management and system programming.
+
+#### <a href="https://github.com/Cypher-RJ/cub3d"><img src="https://img.shields.io/badge/-cub3d-green?style=flat-square"/></a>
+A simple 3D raycasting engine inspired by Wolfenstein 3D. Features:
+- Real-time rendering with C and graphics libraries.
+- Strengthened understanding of game loops and math in graphics.
+
+_Explore more of my work in my pinned repositories!_
+
+---
+
+### 🌱 Currently Learning
+
+- C++ and modern software engineering practices
+- New tools for efficient development
+- Preparing for a career in the tech industry
+
+---
+
+### 🎮 Hobbies & Fun Facts
+
+- Gaming & game design
+- Creative design projects
+- Physics and science
+- Constantly learning new things
+
+---
+
+### 📫 Connect With Me
+
+<p>
+  <a href="mailto:rubenjesus2005comercial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rcesar-d"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/cypher-rj" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cypher-rj" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/cypher-rj">Cypher-RJ</a></i>
-</p>
+<div align="center">
+  <sub>Thanks for visiting! Let’s connect, collaborate, and learn together.</sub>
+</div>
