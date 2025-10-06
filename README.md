@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Student at [42 School](https://42lisboa.com/)
+- 🎓 Student at [42 Lisboa](https://42lisboa.com/)
 - 🏢 Also working at Worten Resolve
 - 🎮 Passionate about game dev, web, and software in general
 - 🧠 I love to learn and let my creativity flow
@@ -52,12 +52,12 @@
 
 ### 🏆 Featured Projects
 
-#### <a href="https://github.com/Cypher-RJ/minishell"><img src="https://img.shields.io/badge/-minishell-blue?style=flat-square"/></a>
+#### <a href="https://github.com/Cypher-RJ/42Lisboa_Minishell"><img src="https://img.shields.io/badge/-minishell-blue?style=flat-square"/></a>
 A custom Unix shell written in C. Features include:
 - Command parsing, built-ins, pipes, and redirections.
 - Deep dive into process management and system programming.
 
-#### <a href="https://github.com/Cypher-RJ/cub3d"><img src="https://img.shields.io/badge/-cub3d-green?style=flat-square"/></a>
+#### <a href="https://github.com/thob3301/cub3d/tree/rcesar-d"><img src="https://img.shields.io/badge/-cub3d-green?style=flat-square"/></a>
 A simple 3D raycasting engine inspired by Wolfenstein 3D. Features:
 - Real-time rendering with C and graphics libraries.
 - Strengthened understanding of game loops and math in graphics.
