@@ -83,6 +83,22 @@ _Explore more of my work in my pinned repositories!_
 
 ---
 
+### 💻 Setup Goals
+
+I'm currently looking for a laptop to support my coding journey! Here are my requirements:
+
+| Item | Details |
+|------|---------|
+| 💰 Budget | €600 – €800 |
+| 📍 Location | Portugal |
+| 💳 Payment | Payment plans / installments preferred |
+| 🖥️ Target | MacBook Air M4 – 16 GB RAM |
+| 🔧 Use Case | Software development, 42 School projects, coding in C / C++ / JS |
+
+> If you have any leads on where to find this setup in Portugal (online stores, carrier deals, or installment plans), feel free to reach out!
+
+---
+
 ### 📫 Connect With Me
 
 <p>
